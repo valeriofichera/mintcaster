@@ -10,6 +10,7 @@ export default function Document() {
         <meta property="fc:frame" content="vNext" />
         <meta property="fc:frame:image" content={`https://mintcaster-jade.vercel.app/mintcaster_logo.png`} />
         <meta property="fc:frame:button:1" content="Get Started" />
+        <meta property="fc:frame:button:2" content="Purple" />
         
       </Head>
       <body>
