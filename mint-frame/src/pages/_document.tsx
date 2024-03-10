@@ -6,12 +6,10 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta property="og:title" content={`Mint an NFT`} />
-        <meta property="og:image" content={`https://mintcaster-jade.vercel.app/mintcaster_logo.png`} />
+        <meta property="og:image" content={`https://mintcaster-jade.vercel.app/banner_frame.png`} />
         <meta property="fc:frame" content="vNext" />
-        <meta property="fc:frame:image" content={`https://mintcaster-jade.vercel.app/mintcaster_logo.png`} />
-        <meta property="fc:frame:button:1" content="Get Started" />
-        <meta property="fc:frame:button:2" content="Purple" />
-        <meta property="fc:frame:input:text" content="Green" />
+        <meta property="fc:frame:image" content={`https://mintcaster-jade.vercel.app/banner_frame.png`} />
+        <meta property="fc:frame:button:1" content="MINT NFT" />
         
       </Head>
       <body>
